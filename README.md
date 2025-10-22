@@ -44,10 +44,3 @@ Feel free to reach out for collaborations or discussions:
 Email: [viben.cyber.net27@gmail.com](mailto:viben.cyber.net27@gmail.com)
 
 ---
-
-## Fun Fact
-I enjoy experimenting with security tools and continuously challenge myself with **real-world scenarios**, bridging theory with practical application.  
-
----
-
-> “Security is not a product, but a process.” – Bruce Schneier
