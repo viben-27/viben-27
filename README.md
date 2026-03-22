@@ -5,9 +5,11 @@ Welcome to my GitHub profile! I’m a passionate cybersecurity enthusiast with a
 ---
 
 ## About Me
-- I’m deeply interested in the **cybersecurity domain**.  
-- Currently learning and honing skills in **networking** and **penetration testing**.  
-- Dedicated to building practical, hands-on experience in both Red & Blue Team activities.  
+Cybersecurity professional specializing in Vulnerability Assessment and Penetration Testing (VAPT) for web 
+applications and APIs. Experienced in identifying critical vulnerabilities such as IDOR, RCE, SSRF, SQL 
+Injection, and Broken Authentication, with a strong foundation in OWASP Top 10 and API Security standards. 
+Skilled in conducting structured security assessments and delivering detailed reports with actionable 
+remediation guidance.  
 
 ---
 
@@ -21,7 +23,8 @@ Welcome to my GitHub profile! I’m a passionate cybersecurity enthusiast with a
 
 ## Focus Areas
 ### Offensive Security
-- Ethical hacking and vulnerability testing  
+- owasp top 10 , API Testing 
+- VAPT web pentesting 
 - TryHackMe & HackTheBox challenges  
 - Python scripts for penetration testing and automation  
 
